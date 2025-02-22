@@ -115,7 +115,7 @@ module.exports = {
     hardhat: {},
     sepolia: {
       url: "https://sepolia.rpc.thirdweb.com",
-      accounts: [`0x${process.env.PRIVATE_KEY}`], // ✅ Fixed format
+      accounts: [`0x${process.env.PRIVATE_KEY}`],
     },
   },
 };
