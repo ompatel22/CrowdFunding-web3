@@ -113,6 +113,7 @@ Before setting up the project, ensure the following are installed:
   ```bash
   git clone https://github.com/yash-sojitra-20/CrowdFunding-web3.git
   cd CrowdFunding-web3
+  npm install
   ```
 
 3. Install dependencies :
@@ -128,7 +129,7 @@ Before setting up the project, ensure the following are installed:
   npm run dev
   ```
 
-4. Open your browser and go to http://localhost:3000 to interact with the platform.
+4. Open your browser and go to http://localhost:5173 to interact with the platform.
 
 ---
 
