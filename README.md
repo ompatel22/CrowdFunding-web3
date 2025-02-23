@@ -52,7 +52,6 @@ Some platforms are country-specific, making it difficult for people from other c
 - **Blockchain**: Ethereum (Sapolia Testnet for testing).
 - **Smart Contracts**: Written in **Solidity** to handle campaign creation, donations, and fund distribution.
 - **Crypto**: **Ether (ETH)** as the native cryptocurrency for transactions.
-- **Web3 Integration**: **Web3.js** is used to interact with Ethereum from the frontend.
 - **Database**: **IPFS (InterPlanetary File System)** for storing campaign data and media files in a decentralized manner.
 - **Deployment**: **Thirdweb** for deploying smart contracts and handling web3 integrations.
 
@@ -147,10 +146,6 @@ Before setting up the project, ensure the following are installed:
 3. **Track Campaign Progress**:
    - Campaign creators and contributors can view real-time updates about donations and the overall campaign status.
 
-4. **Refunds and Fund Distribution**:
-   - If the funding goal is not met, the smart contract automatically refunds contributors after the campaign deadline.
-   - If the campaign is successful, funds are released to the campaign creator.
-
 ---
 
 ## How Blockchain Enhances Crowdfunding
@@ -161,7 +156,6 @@ Blockchain technology provides several significant advantages over traditional c
 2. **Transparency**: Every donation is publicly recorded on the Ethereum blockchain, making the platform fully transparent.
 3. **Security**: Ethereum’s blockchain and cryptographic properties ensure that all funds are secure from manipulation or fraud.
 4. **Immutability**: Once data is recorded on the blockchain, it is permanent and cannot be altered.
-5. **Low Fees**: Blockchain transactions generally incur lower fees compared to traditional crowdfunding platforms.
 
 ---
 
