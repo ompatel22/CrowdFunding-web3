@@ -1,5 +1,12 @@
 # Blockchain-based Crowdfunding Platform
 
+## Live Demo 🚀  
+Experience the platform live: [Click Here](https://crowd-funding-web3-peach.vercel.app/)  
+
+## Video Demonstration 🎥  
+Watch the walkthrough on YouTube: [Watch Now](https://youtu.be/BIAFDCIf9vM?si=6tQbxvtNBKV8h4Ef)  
+
+
 ## Table of Contents
 
 - [Project Overview]
